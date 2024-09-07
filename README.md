@@ -54,4 +54,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbritto-25&theme=dracula" alt="kevinbritto-25 streak stats" />
 </div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
