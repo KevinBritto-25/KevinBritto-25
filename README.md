@@ -4,7 +4,11 @@
 <!-- ░░░  HERO — SYSTEM SPLASH  ░░░ -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
+<<<<<<< HEAD
 <img src="hacke.jfif" width="100%" />
+=======
+<img src="banner.jfif" width="100%" />
+>>>>>>> 1de7eaa (chore: add README)
 
 <br/>
 
@@ -27,9 +31,15 @@
 
 ```yaml
 Kevin_Britto:
+<<<<<<< HEAD
   Role:    "AI/ML + Software Engineer"
   Focus:   "Real-time AI | Edge ML | IoT | Computer Vision | NLP"
   Stack:   "Python | TensorFlow | YOLO | React | Next.js | Django"
+=======
+  Role: "AI/ML + Software Engineer"
+  Focus: "Real-time AI | Edge ML | IoT | Computer Vision | NLP"
+  Stack: "Python | TensorFlow | YOLO | React | Next.js | Django"
+>>>>>>> 1de7eaa (chore: add README)
   Weapons: "Low-latency inference · Production ML pipelines · Full-stack AI apps"
 ```
 
@@ -85,6 +95,10 @@ Kevin_Britto:
 <div align="center">
 
 <!-- Replace # with actual URLs -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1de7eaa (chore: add README)
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=FF0033&labelColor=000000" /></a>
 &nbsp;
 <a href="mailto:kevin@example.com"><img src="https://img.shields.io/badge/Email-TRANSMIT-000000?style=for-the-badge&logo=gmail&logoColor=FF0033&labelColor=000000" /></a>
@@ -115,6 +129,10 @@ Kevin_Britto:
 
 </div>
 
+<<<<<<< HEAD
 <!--- 
+=======
+<!---
+>>>>>>> 1de7eaa (chore: add README)
   ENGINEERED BY KEVIN BRITTO · 2026
 --->
